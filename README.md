@@ -20,6 +20,3 @@ In the next step, the code hits each of the product URLs in the list and extract
 
 Finally, the entire data is exported to a csv file "bags.csv" using the csv library in Python.
 
-This code assumes that the BeautifulSoup library has been installed in the environment, if not, it can be installed using the following command:
-
-pip install beautifulsoup4
